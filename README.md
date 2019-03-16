@@ -77,7 +77,8 @@ Kao i sve ostalo, i ovde se znakom ? označava da li se ovo polje ne mora popunj
 ## Korišćenje same skripte
 
 
-**VAŽNO:** Projektu fali *credentials.json* fajl koji je namerno izostavljen jer sadrži informacije koje ne bi trebalo da se drže u public folderu. Fajl možete naći u folderu na drajvu i samo je potrebno da ga prekopirate ovde.
+**VAŽNO:** Projektu fali *credentials.json* fajl koji je namerno izostavljen jer sadrži informacije koje ne bi trebalo da se drže u public folderu. Fajl možete naći u folderu na drajvu i samo je potrebno da ga prekopirate ovde.  
+Fajl se nalazi u folderu TEH Zimski 2019 / Anketa. **Potrebno je da ga unzipujete prvo.**
 
 
 Skripta se poziva tako što ukucate:   
