@@ -1,0 +1,6 @@
+token.json
+*.pyc
+.vscode
+*.txt
+Pipfile.lock
+credentials.json

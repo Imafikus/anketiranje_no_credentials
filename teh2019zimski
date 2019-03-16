@@ -1,0 +1,38 @@
+title; TEH 2019 Zimski - Anketa
+desc; Molimo te da nam što iskrenije odgovoriš na pitanja kako bi buduće seminare učinili što boljim :
+text; Pokušaj u dve reči da sumiraš najpozitivnije utiske seminara.
+text; Pokušaj u dve reči da sumiraš najnegativnije utiske seminara.
+section_header; U nastavku ćemo te pitati da nam daš komentar o pojedinačnim aktivnostima sa seminara 
+activity; Uvod u TEH Aleksandra Alorić; AKTIVNOST
+activity; Šetnja po svemiru - Stanislav Milošević; PREDAVANJE
+activity; Kopernikanska revolucija - Milan Ćirković; PREDAVANJE
+activity; Matematika zagrevanje - Danilo Đokić; PREDAVANJE
+activity; Kritičko čitanje; AKTIVNOST
+activity; Arhitektura računara - Aleksa Tešić; PREDAVANJE
+activity; Hajzenberg Lisenko i “Suhoji”: nauka i tehnologija u totalitarizmu - Milan Ćirković; PREDAVANJE
+activity; Matematičko razgibavanje - Jovan Božuta; AKTIVNOST
+activity; Uvod u elektroniku - Milomir Stefanović & Dragan Mićić; AKTIVNOST
+activity; Fotonika Petra - Beličev; PREDAVANJE
+activity; Posmatračka astronomija - Stevan Golubović; PREDAVANJE
+activity; Konceptualni uvod u programiranje - Tešić i Bebić; PREDAVANJE
+activity; Machine learning - how it started and where it goes - Uglješa Milić; PREDAVANJE
+activity; Zašto je bitno stići na vreme? - Trendovi u automobilskoj industriji - Erna Oklapi; PREDAVANJE
+activity; Matematička vežbaonica; AKTIVNOST
+activity; Astrofizika na poleđini koverte Vladan Đukić; PREDAVANJE
+activity; Čvrsto stanje - Ana Vranić; PREDAVANJE
+activity; Saradnici prezentuju; AKTIVNOST
+activity; Pojmovi & prezentacije pojmova; AKTIVNOST
+activity; Statistika Oliver Tošković; PREDAVANJE
+activity; Experiment design; AKTIVNOST
+activity; Wolfram Mathematica; Vežbaonica vežbaonici
+activity; Uvod u mikrokontrolere - Dragan Mićić; PREDAVANJE
+activity; Žikica Lukić; PREDAVANJE
+activity; Ubice / paranoje; Igra igri
+scale; Opšti utisak o saradnicima; 1; Najgori; 5; Najbolji
+text; Dodatan komentar o saradnicima
+scale; Opšti utisak o rukovodiocu seminara; 1; Najgori; 5; Najbolji
+text; Dodatan komentar o rukovodiocu seminara
+scale; Opšti utisak o seminaru; 1; Najgori; 5; Najbolji
+text; Da li imaš neke sugestije šta ukloniti iz programa TEH za sledeću godinu?
+text; Da li imaš neke sugestije šta dodati u program TEH za sledeću godinu?
+text?; Ako imaš još nešto da nam kažeš što te nismo pitali slobodno nam to napiši ovde:
